@@ -13,7 +13,7 @@ Using the git client (other options include Google Drive and Dropbox), the follo
 3. Run `echo $BLOT` and copy the repo password, which has to be manually entered to access the git repo. (I stored this in `~/.zshrc`.)
 4. Run `git add . && git commit -m "commit message here" && git push`.
 5. Enter blot username.
-6. Copy the password.
+6. Paste the password.
 
 Refresh the site, and it should be updated!
 
